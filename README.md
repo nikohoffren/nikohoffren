@@ -46,7 +46,7 @@
       <br>Dart
     </td>
     <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="ruby on rails" />
+        <img src="https://skillicons.dev/icons?i=onrails" width="48" height="48" alt="rails" />
       <br>Ruby on Rails
     </td>
     <td align="center" width="85">
