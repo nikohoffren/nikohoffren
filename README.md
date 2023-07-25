@@ -31,12 +31,12 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-  </tr>
-  <tr>
     <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>TailwindCSS
     </td>
+  </tr>
+  <tr>
      <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="flutter" />
       <br>Flutter
