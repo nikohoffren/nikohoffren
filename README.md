@@ -54,6 +54,10 @@
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
       <br>NodeJS
     </td>
+    <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
+      <br>Linux
+    </td>
         <td align="center" width="85"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
