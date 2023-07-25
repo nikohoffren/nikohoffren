@@ -33,7 +33,7 @@
     </td>
     <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>TailwindCSS
+      <br>Tailwind
     </td>
   </tr>
   <tr>
