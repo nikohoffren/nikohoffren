@@ -46,7 +46,7 @@
       <br>Dart
     </td>
     <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=sql" width="48" height="48" alt="sql" />
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="sql" />
       <br>SQL
     </td>
     <td align="center" width="85">
