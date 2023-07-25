@@ -46,6 +46,10 @@
       <br>Dart
     </td>
     <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=rubyonrails" width="48" height="48" alt="ruby on rails" />
+      <br>Ruby on Rails
+    </td>
+    <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
       <br>NodeJS
     </td>
