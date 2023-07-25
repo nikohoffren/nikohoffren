@@ -42,14 +42,16 @@
         <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
       <br>Dart
     </td>
-<!--     <td align="center" width="85">
+<!--     
+    <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="ruby" />
       <br>Ruby
     </td>
     <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="rails" />
       <br>Rails
-    </td> -->
+    </td> 
+-->
     <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
       <br>NodeJS
