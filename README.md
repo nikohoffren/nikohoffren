@@ -46,8 +46,8 @@
       <br>Dart
     </td>
     <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="rails" />
-      <br>Rails
+        <img src="https://skillicons.dev/icons?i=sql" width="48" height="48" alt="sql" />
+      <br>SQL
     </td>
     <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
