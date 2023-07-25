@@ -14,6 +14,7 @@
     <td align="center" width="85">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
+    </td>
     <td align="center" width="85">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
@@ -30,6 +31,8 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
+  </tr>
+  <tr>
     <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>TailwindCSS
@@ -42,16 +45,6 @@
         <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
       <br>Dart
     </td>
-<!--     
-    <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="ruby" />
-      <br>Ruby
-    </td>
-    <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="rails" />
-      <br>Rails
-    </td> 
--->
     <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
       <br>NodeJS
@@ -64,7 +57,7 @@
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
         </td>
- </tr>
+  </tr>
 </table>
 </div>
 
