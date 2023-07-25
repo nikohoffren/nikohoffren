@@ -47,7 +47,7 @@
     </td>
     <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=onrails" width="48" height="48" alt="rails" />
-      <br>Ruby on Rails
+      <br>Rails
     </td>
     <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
