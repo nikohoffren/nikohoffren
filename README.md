@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi there, i'm Niko 👋
 
 ## 🌐 Socials:
@@ -30,3 +32,5 @@
 
   
 Proudly created with GPRM ( https://gprm.itsvg.in )
+
+</div>
