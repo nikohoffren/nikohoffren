@@ -28,6 +28,10 @@
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
       <br>TypeScript
     </td>
+    <td align="center" width="85">
+        <img src="https://techstack-generator.vercel.app/sqlt-icon.svg" alt="icon" width="65" height="65" />
+      <br>SQL
+    </td>
     <td align="center"  width="85">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
@@ -53,6 +57,10 @@
     <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="sql" />
       <br>MySQL
+    </td>
+    <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
+      <br>NextJS
     </td>
     <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
