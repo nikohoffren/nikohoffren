@@ -2,7 +2,10 @@
 
 # Hi there, i'm Niko 👋
 
-Software developer & Music producer. In my spare time i like to spend time with my son, play video games and code something interesting.
+🔭 I’m currently working on open source
+👯 I’m looking to collaborate on open source projects
+🌱 I’m currently learning NextJS
+💬 Contact me if you have job opportunities
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nikohoffren86) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikohoffren) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikohoffren) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nikohoffren86) 
 
