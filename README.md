@@ -59,6 +59,10 @@
       <br>MySQL
     </td>
     <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
       <br>NodeJS
     </td>
