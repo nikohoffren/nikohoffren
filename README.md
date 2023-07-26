@@ -29,7 +29,7 @@
       <br>TypeScript
     </td>
     <td align="center" width="85">
-        <img src="https://techstack-generator.vercel.app/sql-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="icon" width="65" height="65" />
       <br>SQL
     </td>
     <td align="center"  width="85">
