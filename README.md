@@ -58,12 +58,12 @@
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
+  </tr>
+  <tr>
     <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="sql" />
       <br>MySQL
     </td>
-  </tr>
-  <tr>
     <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
       <br>MongoDB
