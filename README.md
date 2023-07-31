@@ -6,7 +6,7 @@
 🔭 I’m currently working on open source<br>
 👯 I’m looking to collaborate on open source projects<br>
 🌱 I’m currently learning NextJS<br>
-💬 Contact me if you have job opportunities<br>
+💬 Contact me for job opportunities<br>
 
 ## 💻 Tech Stack:
 <!--
@@ -17,7 +17,7 @@
 <table align="center">
   <tr>
     <td align="center" width="85">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="45" />
       <br>React
     </td>
      <td align="center" width="85">
