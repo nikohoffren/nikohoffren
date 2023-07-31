@@ -54,6 +54,10 @@
         <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
       <br>Dart
     </td>
+    <td align="center" width="85"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
     <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="sql" />
       <br>MySQL
@@ -76,10 +80,6 @@
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
       <br>Linux
     </td>
-        <td align="center" width="85"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-        </td>
   </tr>
 </table>
 </div>
