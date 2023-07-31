@@ -26,11 +26,11 @@
     </td>
     <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" />
-      <br>NextJS
+      <br>JavaScript
     </td>
     <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="typescript" />
-      <br>NextJS
+      <br>TypeScript
     </td>
     <td align="center"  width="85">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
