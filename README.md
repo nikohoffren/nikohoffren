@@ -6,7 +6,6 @@
 🔭 I’m currently working on open source<br>
 👯 I’m looking to collaborate on open source projects<br>
 🌱 I’m currently learning NextJS<br>
-💬 Contact me for job opportunities<br>
 
 ## 💻 Tech Stack:
 <!--
