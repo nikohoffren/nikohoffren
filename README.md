@@ -7,6 +7,7 @@
 🔭 I’m currently working on open source<br>
 👯 I’m looking to collaborate on open source projects<br>
 🌱 I’m currently learning NextJS<br>
+⏳ In my spare time i like to spend time with my son, play video games or code something interesting<br>
 
 ## 💻 Tech Stack:
 <!--
