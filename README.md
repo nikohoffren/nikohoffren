@@ -65,8 +65,8 @@
       <br>MySQL
     </td>
     <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
-      <br>MongoDB
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="aws" />
+      <br>AWS
     </td>
     <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
