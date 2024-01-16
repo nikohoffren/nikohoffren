@@ -77,6 +77,10 @@
       <br>NodeJS
     </td>
     <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="terraform" />
+      <br>Terraform
+    </td>
+    <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
       <br>Linux
     </td>
