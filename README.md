@@ -54,6 +54,10 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
     </td>
+      <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
+      <br>Firebase
+    </td>
     <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="flutter" />
       <br>Flutter
@@ -61,10 +65,6 @@
      <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
       <br>Dart
-    </td>
-    <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
-      <br>Firebase
     </td>
   </tr>
 </table>
