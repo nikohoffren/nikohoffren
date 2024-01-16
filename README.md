@@ -65,7 +65,7 @@
       <br>Firebase
     </td>
     <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=IaC" width="48" height="48" alt="iac" />
+        <img src="https://skillicons.dev/icons?i=infrastructureascode" width="48" height="48" alt="iac" />
       <br>IaC
     </td>
   </tr>
