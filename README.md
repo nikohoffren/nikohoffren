@@ -28,6 +28,10 @@
         <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="terraform" />
       <br>Terraform
     </td>
+       <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="aws" />
+      <br>AWS
+    </td>
     <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
       <br>Linux
@@ -39,16 +43,6 @@
      <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
       <br>NextJS
-    </td>
-    <td align="center"  width="85">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
     </td>
     <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
@@ -67,12 +61,12 @@
       <br>Git
     </td>
     <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="aws" />
-      <br>AWS
-    </td>
-    <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
       <br>Firebase
+    </td>
+    <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=iac" width="48" height="48" alt="iac" />
+      <br>IaC
     </td>
   </tr>
 </table>
