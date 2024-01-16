@@ -16,6 +16,22 @@
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
+   <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
+      <br>NodeJS
+    </td>
+       <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="typescript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="terraform" />
+      <br>Terraform
+    </td>
+    <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
+      <br>Linux
+    </td>
     <td align="center" width="85">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="45" />
       <br>React
@@ -23,14 +39,6 @@
      <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
       <br>NextJS
-    </td>
-    <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="typescript" />
-      <br>TypeScript
     </td>
     <td align="center"  width="85">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -61,10 +69,6 @@
   </tr>
   <tr>
     <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="sql" />
-      <br>MySQL
-    </td>
-    <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="aws" />
       <br>AWS
     </td>
@@ -72,18 +76,7 @@
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
       <br>Firebase
     </td>
-    <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
-      <br>NodeJS
-    </td>
-    <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="terraform" />
-      <br>Terraform
-    </td>
-    <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
-      <br>Linux
-    </td>
+    
   </tr>
 </table>
 </div>
