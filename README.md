@@ -36,6 +36,12 @@
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
       <br>Linux
     </td>
+     <td align="center" width="85"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="85">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="45" />
       <br>React
@@ -55,10 +61,6 @@
      <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
       <br>Dart
-    </td>
-    <td align="center" width="85"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
     </td>
     <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
