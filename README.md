@@ -3,10 +3,10 @@
 # Hi there, i'm Niko!
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikohoffren) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikohoffren) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/nikohoffren86)
  
-- Maintainer of [forkcommitmerge.io](https://forkcommitmerge.io)<br>
-- I’m currently working at Dyme Solutions as a Software Engineer<br>
-- I’m looking to collaborate on open source projects<br>
-- In my spare time i like to spend time with my son, play video games or code something interesting<br>
+Maintainer of [forkcommitmerge.io](https://forkcommitmerge.io)<br>
+I’m currently working at Dyme Solutions as a Software Engineer<br>
+I’m looking to collaborate on open source projects<br>
+In my spare time i like to spend time with my son, play video games or code something interesting<br>
 
 ## 💻 Tech Stack:
 <!--
