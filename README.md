@@ -64,10 +64,6 @@
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
       <br>Firebase
     </td>
-    <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=serverless" width="48" height="48" alt="serverless" />
-      <br>Serverless
-    </td>
   </tr>
 </table>
 </div>
