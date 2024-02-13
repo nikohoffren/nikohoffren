@@ -33,6 +33,10 @@ In my spare time i like to spend time with my son, play video games or code some
         <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="aws" />
       <br>AWS
     </td>
+    <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="java" />
+      <br>Java
+    </td>
         <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="jenkins" />
       <br>Jenkins
@@ -48,36 +52,6 @@ In my spare time i like to spend time with my son, play video games or code some
      <td align="center" width="85"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
-    </td>
- <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="java" />
-      <br>Java
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="85">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="45" />
-      <br>React
-    </td>
-     <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
-      <br>NextJS
-    </td>
-    <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-      <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="flutter" />
-      <br>Flutter
-    </td>
-     <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-      <br>Dart
     </td>
   </tr>
 </table>
