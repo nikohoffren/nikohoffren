@@ -49,6 +49,10 @@ In my spare time i like to spend time with my son, play video games or code some
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
+ <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="java" />
+      <br>Java
+    </td>
   </tr>
   <tr>
     <td align="center" width="85">
