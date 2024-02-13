@@ -33,6 +33,10 @@ In my spare time i like to spend time with my son, play video games or code some
         <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="aws" />
       <br>AWS
     </td>
+       <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker" />
+      <br>Docker
+    </td>
     <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
       <br>Linux
