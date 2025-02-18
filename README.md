@@ -5,7 +5,7 @@
  
 Maintainer of [Fork, Commit, Merge](https://forkcommitmerge.vercel.app).<br>
 I’m looking to collaborate on open source projects.<br>
-In my spare time i like to spend time with my son, play video games or code something interesting.<br>
+In my spare time i like to spend time with my son, go to the gym, play video games or code something interesting.<br>
 
 ---
 
