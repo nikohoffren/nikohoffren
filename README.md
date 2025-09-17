@@ -20,6 +20,10 @@ In my spare time i like to spend time with my son, go to the gym, play video gam
       <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="java" />
       <br>Java
     </td>
+   <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="spring" />
+      <br>Spring
+    </td>
        <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="typescript" />
       <br>TypeScript
