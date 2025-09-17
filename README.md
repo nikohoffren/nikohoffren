@@ -16,9 +16,9 @@ In my spare time i like to spend time with my son, go to the gym, play video gam
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-   <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
-      <br>NodeJS
+     <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="java" />
+      <br>Java
     </td>
        <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="typescript" />
@@ -31,10 +31,6 @@ In my spare time i like to spend time with my son, go to the gym, play video gam
        <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="aws" />
       <br>AWS
-    </td>
-    <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="java" />
-      <br>Java
     </td>
         <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="jenkins" />
