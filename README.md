@@ -1,6 +1,6 @@
 <div align="center">
 
-Back-end Engineer at Exercim &
+Back-end Engineer &
 Maintainer of [forkcommitmerge.dev](https://forkcommitmerge.dev).<br>
 I’m looking to collaborate on open source projects.<br>
 In my spare time i like to spend time with my son, go to the gym, play video games or code something interesting.<br>
