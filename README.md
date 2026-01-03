@@ -52,8 +52,6 @@ In my spare time i like to spend time with my son, go to the gym, play video gam
 </table>
 </div>
 
----
-
 <!-- ![](https://github-readme-stats.vercel.app/api?username=nikohoffren&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=nikohoffren&theme=nightowl&hide_border=false)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikohoffren&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
