@@ -1,74 +1,86 @@
 <div align="center">
 
-Back-end Engineer &
-Maintainer of [forkcommitmerge.dev](https://forkcommitmerge.dev).<br>
-I’m looking to collaborate on open source projects.<br>
-In my spare time i like to spend time with my son, go to the gym, play video games or code something interesting.<br>
+Application Developer at IBM, specializing in DevOps, CI/CD, Infrastructure as Code, and cloud engineering.<br>
+I primarily work with .NET, Azure, Bicep, automation, and modern software delivery practices.<br>
+I’m also the maintainer of <a href="https://forkcommitmerge.dev">forkcommitmerge.dev</a> and enjoy collaborating on open source projects.<br>
+In my spare time, I enjoy spending time with my son, going to the gym, playing video games, and building interesting things.<br><br>
 
-<!--
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
--->
-
-<div style="display: flex; align-items: flex-start; align: center">
+<div style="display: flex; align-items: flex-start; justify-content: center;">
 <table align="center">
   <tr>
-     <td align="center" width="85">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="java" />
-      <br>Java
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+      <br>.NET
     </td>
-   <td align="center" width="85">
-      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="spring" />
-      <br>Spring
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=csharp" width="48" height="48" alt="C#" />
+      <br>C#
     </td>
-       <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="typescript" />
-      <br>TypeScript
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+      <br>Azure
     </td>
-    <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="terraform" />
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
       <br>Terraform
     </td>
-       <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="aws" />
-      <br>AWS
-    </td>
-        <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="jenkins" />
-      <br>Jenkins
-    </td>
-       <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker" />
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
-    <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+      <br>GitHub Actions
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
+      <br>Jenkins
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" />
+      <br>PowerShell
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+      <br>Bash
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
-     <td align="center" width="85"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" />
+      <br>Prometheus
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" />
+      <br>Grafana
     </td>
   </tr>
 </table>
 </div>
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=nikohoffren&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=nikohoffren&theme=nightowl&hide_border=false)<br/> -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikohoffren&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-<!-- ![](https://github-profile-trophy.vercel.app/?username=nikohoffren&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4) -->
-<!-- ![](https://github-contributor-stats.vercel.app/api?username=nikohoffren&limit=22&theme=nightowl&combine_all_yearly_contributions=true) -->
+<br>
+
+<img src="https://img.shields.io/badge/Bicep-0095D5?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Bicep" />
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+<img src="https://img.shields.io/badge/Infrastructure_as_Code-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Infrastructure as Code" />
+<img src="https://img.shields.io/badge/Cloud_Automation-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Cloud Automation" />
 
 ---
-<!-- [![](https://visitcount.itsvg.in/api?id=nikohoffren&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
-<!-- <picture> 
-     <source media="(prefers-color-scheme: dark)" srcset="https://cal.com/book-with-cal-dark.svg"> 
-     <source media="(prefers-color-scheme: light)" srcset="https://cal.com/book-with-cal-light.svg"> 
-     <img alt="Contact" src="https://cal.com/book-with-cal-light.svg" height="40"> 
-   </picture> -->
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nikohoffren)
-
-Proudly created with GPRM ( https://gprm.itsvg.in )
+<a href="https://buymeacoffee.com/nikohoffren">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+</a>
 
 </div>
